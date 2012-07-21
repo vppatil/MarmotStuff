@@ -1,0 +1,14 @@
+
+Reviewer: 1
+Comments to the Author
+I have read the new version of the paper by Patil et al. I found this version well improved. In particular, I think that authors have well addressed the points I raised in my previous review. I think also that the discussion on the relative effect of winter and social factors on survival is now better balanced. I still have some points that are not clear for me. 
+First, I don’t understand how Appendix S5 in ESM illustrates that “the correlation between survival and SUB had 95% confidence intervals overlapping 0 under all combination of PDO and PDOlag and all age-classes” (P13 l277-279). I understand that this result is used to state that group thermoregulation was not as important as winter weather (P14 l310-312). So, it would be nice to clarify this point. Also, I don’t understand how Appendix S5 in ESM shows that “an increase from 0 to 3 subordinates was predicted to increase juvenile survival by an average of 0.79 when PDOlag was set to 1.57 (in fact 1.58 in the figure). Do the figures in Appendix S5 in the right order? Please check.
+Second, when reading Appendix S2 I have noted that some deviances largely differ from each other but all lead to comparable AICc. For example on the second line, a deviance of 148.89 is reported. How then it is possible to get an AICc value of 563.95 given the definition of AIC? The lines with a Deviance around five hundred gave coherent AICc but not the models with small Deviance. Something is wrong in this table. Please check. (the same is true in Table 3).
+
+Minor comments:
+P16 l348: Theuriau instead of Theiriau
+Also, check the order of citations. Did you order according to an alphabetic order or to the chronological order? Alphabetic seems the right one (but it is not true along the manuscript). Then, Arnold should be cited after Allaine and Allaine and Theuriau but before Farand et al. When citing Arnold, 1990 should be cited before 1993. So, please check the coherence of citation order all along the manuscript.
+
+Table 2: Fsub = Number of female subordinates
+
+citation order means in-text citations.
