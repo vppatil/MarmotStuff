@@ -1,8 +1,8 @@
 todo
 
 git
-fix deviance values
-check reference citation order
+fix deviance values-done
+check reference citation order-done
 check other comments
 read through author instructions
 read through manuscript one more time
