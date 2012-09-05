@@ -3,6 +3,11 @@ todo
 git
 fix deviance values-done
 check reference citation order-done
-check other comments
-read through author instructions
+check other comments-done
+read through author instructions-done
 read through manuscript one more time
+
+notes
+-seasonal survival fig remove boxes.
+-add author statement
+-are fig. vs. figure used correctly.
