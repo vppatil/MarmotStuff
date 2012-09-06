@@ -8,6 +8,7 @@ read through author instructions-done
 read through manuscript one more time
 
 notes
--seasonal survival fig remove boxes.
--add author statement
--are fig. vs. figure used correctly.
+-seasonal survival fig remove boxes.-done
+-add author statement-done
+-are fig. vs. figure used correctly.-done.
+-add title, authors to ESM-done
